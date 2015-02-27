@@ -3,11 +3,6 @@
 --- !u!78 &1
 TagManager:
   tags:
-  - Player
-  - Enemy
-  - 
-  - 
-  - Background
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX
@@ -40,7 +35,7 @@ TagManager:
   User Layer 28: 
   User Layer 29: 
   User Layer 30: 
-  User Layer 31: Background
+  User Layer 31: 
   m_SortingLayers:
   - name: Default
     userID: 0
