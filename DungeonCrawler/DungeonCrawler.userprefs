@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DungeonScene\LevelScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DungeonScene\BackgroundScript.cs" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\DungeonScene\CameraScript.cs" Line="14" Column="68" />
+      <File FileName="Assets\Scripts\DungeonScene\LevelScript.cs" Line="6" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
